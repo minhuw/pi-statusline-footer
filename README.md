@@ -33,7 +33,7 @@ A one-line compact mode is also available.
 From git (replace with the actual repo URL):
 
 ```bash
-pi install git:github.com/YOUR_USER/pi-statusline-footer
+pi install git:github.com/minhuw/pi-statusline-footer
 ```
 
 Or from a local clone:
@@ -45,7 +45,7 @@ git clone <repo-url> && pi install /path/to/pi-statusline-footer
 Or try it without installing (current run only):
 
 ```bash
-pi -e git:github.com/YOUR_USER/pi-statusline-footer
+pi -e git:github.com/minhuw/pi-statusline-footer
 ```
 
 ## Usage
