@@ -1,0 +1,15 @@
+{
+	"name": "pi-statusline-footer",
+	"version": "0.1.0",
+	"description": "A rich statusline footer for pi — context window, cost, TTFT, tokens/sec, git state, inspired by claude-tui",
+	"license": "MIT",
+	"keywords": ["pi-package"],
+	"peerDependencies": {
+		"@earendil-works/pi-ai": "*",
+		"@earendil-works/pi-coding-agent": "*",
+		"@earendil-works/pi-tui": "*"
+	},
+	"pi": {
+		"extensions": ["./extensions"]
+	}
+}
